@@ -18,5 +18,5 @@ competition in 2015. Feel free to use it.
 
 ## Note: 
 During the competition we have not used GIT so code and documents are 
-not arranged well. Also commited not tested with actual hardware. Please feel free 
+not arranged well. Also commit not tested with actual hardware. Please feel free 
 to update any part of this repo. 
